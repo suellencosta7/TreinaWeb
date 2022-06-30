@@ -20,5 +20,5 @@
     </script>
     
     /* Para entender melhor como funciona os metodos de arredondar e gerar número aleatório, criei um alert que mostrassse ele funcionando 
-    juntamete com a escolha do usuário, mas ao executar, o navegador gera apeas um número aleatório, modificando apenas quando fecha e abre novamente. 
+    juntamete com a escolha do usuário, mas ao executar, o navegador gera apeas um número aleatório por vez, modificando apenas quando fecha e abre novamente. 
     Poderiam me ajudar com este problema ? */
