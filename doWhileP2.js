@@ -1,5 +1,5 @@
 /* Dando continuidade, analisando o código consegui concertar a falha em gerar apenas um número aleátorio por vez.
-estava usando a variável fora da condição de repetição, ao passar para dentro o números funcionaram como esperado!*/ 
+estava usando a variável fora da condição de repetição(global), ao passar para dentro(local) os números funcionaram como esperado!*/ 
 
    <script> 
      
