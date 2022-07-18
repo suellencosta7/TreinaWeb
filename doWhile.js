@@ -26,6 +26,6 @@
 
 
 
-// COD. Concertado EX.do/while.js
+// COD. Concertado EX1.doWhileP2.js
     
 
