@@ -1,3 +1,8 @@
+
+    /* Para entender melhor como funciona os metodos de arredondar e gerar número aleatório, criei um alert que mostrassse ele funcionando 
+    juntamete com a escolha do usuário, mas ao executar, o navegador gera apeas um número aleatório por vez, modificando apenas quando fecha e abre novamente. 
+    Poderiam me ajudar com este problema ? */
+
 <script>
        var numAle = Math.floor((Math.random()*9)+1)
       
@@ -18,7 +23,9 @@
         
 
     </script>
+
+
+
+// COD. Concertado EX.do/while.js
     
-    /* Para entender melhor como funciona os metodos de arredondar e gerar número aleatório, criei um alert que mostrassse ele funcionando 
-    juntamete com a escolha do usuário, mas ao executar, o navegador gera apeas um número aleatório por vez, modificando apenas quando fecha e abre novamente. 
-    Poderiam me ajudar com este problema ? */
+
