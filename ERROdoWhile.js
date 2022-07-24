@@ -26,6 +26,6 @@
 
 
 
-// COD. Concertado EX1.doWhileP2.js
+// CÓDG. Concertado EX1.doWhileP2.js
     
 
