@@ -8,3 +8,6 @@ tenta adivinhar qual número a maquina vai gerar entre 1 a 10. Enquando o usuár
 o número.
 
 Deixei imagens de como é apresentado quando é solicitado para inserir número, quando o usuário erra e acerta.
+
+
+Dynamic: Diferença entre o uso dynamic e var. C#
